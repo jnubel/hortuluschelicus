@@ -3,6 +3,7 @@ title: Dell'arte del suono
 author: San Rafaele, Benvenuto de
 year: 1777
 source: http://catalogue.bnf.fr/ark:/12148/cb449164083
+language: it
 tags:
   - music
   - italy
@@ -10,6 +11,7 @@ tags:
   - performance_practice
   - 18th_century
 ---
+
 # DELL'ARTE DEL SUONO
 DEL SIG. CONTE BENVENUTO
 DI S. RAFAELE, TORINESE
