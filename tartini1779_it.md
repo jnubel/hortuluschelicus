@@ -14,8 +14,6 @@ tags:
 
 ## Lettera del defonto Signor Giuseppe Tartini alla Signora Maddalena Lombardini inserviente Ad une importante Lezione per i Suonatori di Violino.
 
-p
-
 ### LETTERA, ec.
 
 SIG. MADDALENA MIA STIMATISSIMA,
