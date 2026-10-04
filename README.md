@@ -4,6 +4,8 @@ Here are some texts about violin and his historical practice and pedagogy. The M
 
 ## Texts availables
 
-|Title|Author|Year|Link|
-|:-----|:------|:----|:----|
-|Dell'arte del Suono|San Rafaele, Benedetto de|1777|[sanrafele1777.md](./sanrafaele1777.md)|
+|Title|Author|Year|Language|Link|
+|:-----|:------|:----|:----|:----|
+|Dell'arte del Suono|San Rafaele, Benedetto de|1777|it|[sanrafele1777.md](./sanrafaele1777.md)|
+|Lettera [...] inserviente Ad une importante Lezione per i Suonatori di Violino|Tartini, Giuseppe|1779|it|[tartini1779_it.md](tartini1779_it.md)|
+|
